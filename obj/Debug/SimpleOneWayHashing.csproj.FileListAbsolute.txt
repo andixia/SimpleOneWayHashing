@@ -1,0 +1,70 @@
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\App.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Views\HasherView.g.cs
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\App.g.cs
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing_MarkupCompile.cache
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing_MarkupCompile.lref
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe.config
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.pdb
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.csprojResolveAssemblyReference.cache
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Views\HasherView.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.g.resources
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.Properties.Resources.resources
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.csproj.GenerateResource.Cache
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.exe
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.pdb
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\bin\Debug\WPFToolkit.dll
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\WAYI-MVVM-FRAMEWORK\SimpleOneWayHashing\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe.config
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.exe
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.pdb
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.pdb
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\WPFToolkit.dll
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\App.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Views\HasherView.g.cs
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\App.g.cs
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing_MarkupCompile.cache
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing_MarkupCompile.lref
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\Views\HasherView.baml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.g.resources
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.Properties.Resources.resources
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.csproj.GenerateResource.Cache
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe.CodeAnalysisLog.xml
+C:\Users\gempmps03\OneDrive\WPF MVVM Frameworks\SimpleOneWayHashing\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe.lastcodeanalysissucceeded
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe.config
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.exe
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.pdb
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.exe
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\bin\Debug\SimpleOneWayHashing.pdb
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\bin\Debug\WPFToolkit.dll
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.csprojResolveAssemblyReference.cache
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\App.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Views\HasherView.g.cs
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\App.g.cs
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing_MarkupCompile.cache
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing_MarkupCompile.lref
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\Views\HasherView.baml
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.g.resources
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.Properties.Resources.resources
+C:\Users\gempmps03\OneDrive\GitHub\SimpleOneWayHashing\obj\Debug\SimpleOneWayHashing.csproj.GenerateResource.Cache
