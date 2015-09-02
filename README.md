@@ -1,6 +1,6 @@
 # SimpleOneWayHashing
 
-A simple Password Hashing Tool is a sample of MVVM implementation built in WPF.
+**A simple Password Hashing Tool is a sample of MVVM implementation built in WPF.**
 
 -----
 
