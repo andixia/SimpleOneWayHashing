@@ -22,6 +22,8 @@ public string ComputeHash(string PlainText, string Salt)
 }
 ```
 
+**Article:** [Developing WPF Application Using MVVM Design Pattern](http://heiswayi.github.io/developing-wpf-application-using-mvvm-design-pattern.html)
+
 -----
 
 ### Screenshot
