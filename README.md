@@ -1,6 +1,6 @@
 # SimpleOneWayHashing
 
-**The Source Code of Simple Password Hashing Tool, a sample of MVVM implementation built in WPF.**
+**The source code of Simple Password Hashing Tool - Example app of MVVM implementation in C# WPF**
 
 ---
 
