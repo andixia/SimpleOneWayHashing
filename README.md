@@ -1,8 +1,8 @@
 # SimpleOneWayHashing
 
-**A simple Password Hashing Tool is a sample of MVVM implementation built in WPF.**
+**The Source Code of Simple Password Hashing Tool, a sample of MVVM implementation built in WPF.**
 
------
+---
 
 This Visual C# project is one of learning examples for developing an application in WPF based on Model-View-ViewModel (MVVM) design pattern. MVVM is one of the best practices implemented in the most software development industries because this design pattern enables the separation between GUI and program logics. Thus, it makes easier for developers to collaborate each other across multiple departments or functional groups.
 
@@ -24,13 +24,11 @@ public string ComputeHash(string PlainText, string Salt)
 
 **Article:** [Developing WPF Application Using MVVM Design Pattern](http://heiswayi.github.io/developing-wpf-application-using-mvvm-design-pattern.html)
 
------
-
-### Screenshot
+## Screenshot of the Program
 
 ![Screenshot](screenshot.png)
 
-### License
+## License
 
 ```
 This is free and unencumbered software released into the public domain.
